@@ -7,3 +7,5 @@ const ChannelProvider = ChannelContext.Provider;
 const ChannelConsumer = ChannelContext.Consumer;
 
 export { ChannelProvider, ChannelConsumer };
+
+export default ChannelContext;
