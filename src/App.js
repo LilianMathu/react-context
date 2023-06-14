@@ -1,9 +1,9 @@
-import CounterThree from "./Components/CounterThree";
+import CounterFour from "./Components/CounterFour";
 
 function App() {
   return (
     <div className="App">
-      <CounterThree />
+      <CounterFour />
     </div>
   );
 }
