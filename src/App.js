@@ -1,11 +1,9 @@
-import ComponentD from "./Components/ComponentD";
-import UserComponent from "./Components/UserComponent";
+import CounterOne from "./Components/CounterOne";
 
 function App() {
   return (
     <div className="App">
-      <UserComponent />
-      <ComponentD />
+      <CounterOne />
     </div>
   );
 }
