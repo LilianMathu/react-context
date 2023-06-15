@@ -1,9 +1,9 @@
-import DataFetching1 from "./Components/DataFetching1";
+import DataFetching2 from "./Components/DataFetching2";
 
 function App() {
   return (
     <div className="App">
-      <DataFetching1 />
+      <DataFetching2 />
     </div>
   );
 }
